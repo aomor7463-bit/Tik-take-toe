@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Tic Tac Toe Online",
+  "description": "A feature-rich Tic Tac Toe game. Play in offline mode, challenge friends with a unique game code, or get matched with random players online. Includes a full login and registration system using Firebase, with player points and levels tracked and stored.",
+  "requestFramePermissions": []
+}
